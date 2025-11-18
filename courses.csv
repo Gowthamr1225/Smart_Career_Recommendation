@@ -1,0 +1,37 @@
+title,provider,duration_months,prerequisites,skill_tags,level,link,cost,domain,category
+Excel Fundamentals,Coursera,1,None,excel; data cleaning,beginner,https://coursera.org/excel,0,non-it,foundation
+Business Analytics with Excel,Udemy,2,Excel,excel; analytics; dashboards,beginner,https://udemy.com/business-analytics-excel,12,non-it,analytics
+Power BI for Business,Udemy,2,None,power bi; visualization,beginner,https://udemy.com/powerbi,15,non-it,bi
+Tableau Data Visualization,Coursera,2,None,tableau; visualization,beginner,https://coursera.org/tableau,0,non-it,bi
+Digital Marketing Basics,Google,2,None,seo; sem; social media,beginner,https://skillshop.exceedlms.com/,0,non-it,marketing
+Finance for Non-Finance,edX,2,None,finance basics; accounting,beginner,https://edx.org/finance-basics,0,non-it,finance
+HR Essentials,LinkedIn Learning,1,None,hr; recruitment; talent,beginner,https://linkedin.com/learning/hr-essentials,0,non-it,hr
+Operations & Supply Chain Basics,Coursera,2,None,operations; supply chain; logistics,beginner,https://coursera.org/operations-supply-chain,0,non-it,operations
+Tally Prime with GST,Udemy,2,None,tally; gst; bookkeeping,beginner,https://udemy.com/tally-gst,12,non-it,accounts
+Accounting & Financial Statements,Coursera,2,None,accounting; fp&a; statements,beginner,https://coursera.org/accounting,0,non-it,accounts
+
+SAP FICO Fundamentals,Uplatz,3,Accounting basics,sap fico; finance; erp,intermediate,https://uplatz.com/course/sap-fico,49,non-it,erp
+SAP MM (Materials Management),Udemy,3,Basic ERP,sap mm; procurement; erp,intermediate,https://udemy.com/sap-mm,29,non-it,erp
+SAP SD (Sales and Distribution),Udemy,3,Basic ERP,sap sd; sales; erp,intermediate,https://udemy.com/sap-sd,29,non-it,erp
+SAP HCM (Human Capital Management),Udemy,3,HR Basics,sap hcm; hr; erp,intermediate,https://udemy.com/sap-hcm,29,non-it,erp
+
+Banking Fundamentals,Coursera,2,None,banking; retail banking; finance,beginner,https://coursera.org/banking-basics,0,non-it,banking
+Credit Risk Analysis,Udemy,3,Finance basics,credit risk; banking; analytics,intermediate,https://udemy.com/credit-risk,29,non-it,banking
+Investment Banking Certification,edX,4,Finance basics,investment banking; corporate finance,intermediate,https://edx.org/investment-banking,99,non-it,banking
+Treasury & Risk Management,Simplilearn,3,Finance basics,treasury; risk management; banking,intermediate,https://simplilearn.com/treasury-risk,79,non-it,banking
+Retail Banking Operations,LinkedIn Learning,2,None,retail banking; customer service,beginner,https://linkedin.com/learning/retail-banking,0,non-it,banking
+FinTech Foundations,Coursera,2,None,fintech; payments; digital banking,beginner,https://coursera.org/fintech,0,non-it,banking
+
+Intro to Python,Coursera,2,None,python; coding,beginner,https://coursera.org/python,0,it,foundation
+SQL for Data Analysis,Udemy,2,None,sql; queries; data,beginner,https://udemy.com/sql,12,it,analytics
+Data Analysis with Pandas,DataCamp,2,Python,pandas; cleaning; eda,intermediate,https://datacamp.com/pandas,0,it,analytics
+Machine Learning Foundations,Coursera,3,Python,ml; model building; sklearn,intermediate,https://coursera.org/ml,0,it,ml
+Deep Learning with PyTorch,Udemy,4,Python,deep learning; pytorch,advanced,https://udemy.com/pytorch,19,it,ml
+Web Development Bootcamp,Udemy,3,None,html; css; javascript,beginner,https://udemy.com/web-bootcamp,15,it,software
+Backend with Python & APIs,Udemy,3,Python,flask; fastapi; apis,intermediate,https://udemy.com/python-apis,17,it,software
+Cloud Practitioner (AWS),AWS,2,None,aws; cloud; fundamentals,beginner,https://aws.amazon.com/certification/certified-cloud-practitioner/,0,it,cloud
+Azure Fundamentals (AZ-900),Microsoft,2,None,azure; cloud; fundamentals,beginner,https://learn.microsoft.com/certifications/azure-fundamentals/,0,it,cloud
+DevOps Foundations,LinkedIn Learning,2,None,devops; ci/cd; git,beginner,https://linkedin.com/learning/devops-foundations,0,it,devops
+Cybersecurity Basics,Google,2,None,security; network; fundamentals,beginner,https://grow.google/certificates/cybersecurity/,0,it,security
+UI/UX Design Foundations,Coursera,2,None,ui; ux; figma; wireframe,beginner,https://coursera.org/uiux,0,it,design
+QA Testing with Selenium,Udemy,2,None,qa; testing; selenium,beginner,https://udemy.com/selenium,15,it,qa
